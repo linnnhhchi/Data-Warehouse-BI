@@ -8,3 +8,5 @@ We adopted a star schema for its simplicity and improved query performance. The 
   Dimension_OrderDelivery evaluates regional delivery performance and customer demographics.
   Fact_OrderValue aggregates metrics like total revenue and sales patterns.
 This design enhances business alignment, optimizes logistics, and enables effective resource allocation.
+
+![OLTP Dashboard](OLTP.png)
